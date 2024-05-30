@@ -5,5 +5,5 @@ This project proposes the implementation of a floating photovoltaic (PV) power p
 
 
 
-You can see the provided Project Poster and Presentation, and for more details, check out the link that has also the whole detailed report: https://shorturl.at/V2drX
+You can see the provided Project Final Report, Poster and Presentation.
 
